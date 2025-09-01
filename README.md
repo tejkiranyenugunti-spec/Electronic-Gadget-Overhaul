@@ -1,5 +1,5 @@
 **# Electronic-Gadget-Overhaul**
-The main aim of this project is to create a platform to connect the customers and technicians for gadget service in such a way that it utilizes the concepts of CSS, HTML, and PHP to optimize the implementation of an electronic gadget overhaul website for the public 
+The main aim of this project is to create a platform to connect the customers and technicians for gadget service in such a way that it utilizes the concepts of CSS, HTML, and PHP to optimize the implementation of an electronic gadget overhaul website for the public 
 use. If any technicians are available for the assistance they can accept the customer's request and get paid after the service.
 
 **1.1 HARDWARE REQUIREMENTS **
